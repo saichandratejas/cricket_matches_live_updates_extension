@@ -1,0 +1,14 @@
+{
+    "name": "My Matches-Chrome Extension",
+    "version": "1.0.0",
+    "description": "Extension where you can find all the updates of the on-going matches!",
+    "manifest_version": 3,
+    "author": "Tejas",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Matches-Chrome Extension"
+    },
+    "icons":{
+        "32":"cricket.png"
+    }
+}
